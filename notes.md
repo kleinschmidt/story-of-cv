@@ -1,4 +1,4 @@
-# Story of CV/life story
+# Story of CV/growing up in academia
 
 http://www.cns.nyu.edu/malab/static/files/publications/2017%20Ma.pdf
 
@@ -13,8 +13,9 @@ I guess I just don't know how to _organize_ this.  General points:
 
 SO I guess my plan is, literally, to try and tell the stories behind the actual
 document of the CV (which in a sense is supposed to be my "official" life story)
-  * highlight a few themes to start
-  * go through my CV 
+
+* highlight a few themes to start
+* go through my CV 
 
 ## Themes
 
@@ -37,8 +38,8 @@ I was kind of surprised when I was looking back on my CV how many of the things
 on there remind me of really dark times.  I'm not sure that's healthy.
 
 I've found therapy really helpful in some cases.  I was brought up to believe
-that work is really the only thing that matters in your life.
-
+that work is really the only thing that matters in your life (not necessarily
+_explicitly_ but that was my experience)
 
 ## one good idea? / feeling very scattered
 
