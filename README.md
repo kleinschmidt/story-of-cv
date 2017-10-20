@@ -1,6 +1,10 @@
-# Story of CV/growing up in academia
+These are my notes for an informal ["stories behind your CV" talk
+(pdf)](http://www.cns.nyu.edu/malab/static/files/publications/2017%20Ma.pdf)
+that I gave for RuCCS grad students on Oct 19 2017.  I put my CV up on the
+projector and talked about all the hidden struggles, setbacks, failures, and
+insecurities behind the accomplishments listed there.
 
-http://www.cns.nyu.edu/malab/static/files/publications/2017%20Ma.pdf
+# Story of CV/growing up in academia
 
 I guess I just don't know how to _organize_ this.  General points:
 
